@@ -1,4 +1,5 @@
-[Play game!](https://beingaturtle.github.io/rockpaperscissors/)
+[Play game!](https://ianhdchan.github.io/rockpaperscissors/)
 <br>
 <br>
 ![](rockpaperscissors.png)
+
